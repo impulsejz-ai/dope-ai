@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "tiktok-ads": {
+      "command": "uvx",
+      "args": ["meta-ads-mcp"],
+      "env": {
+        "TIKTOK_ACCESS_TOKEN": "ВСТАВЬ_ТОКЕН_СЮДА",
+        "TIKTOK_ADVERTISER_ID": "ВСТАВЬ_ID_АККАУНТА_ПО_УМОЛЧАНИЮ"
+      }
+    }
+  }
+}
